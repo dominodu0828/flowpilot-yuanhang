@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts
+.data/
+*.db
+*.db-shm
+*.db-wal
+
+# competition submission artifacts (2026-08-17), never commit
+FlowPilot-PromptGuard-Reverie-*.zip
+reverie-submission-flowpilot-promptguard/
+.claude/
