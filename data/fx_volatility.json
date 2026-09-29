@@ -1,0 +1,298 @@
+{
+  "CNYHKD": {
+    "pair": "CNY/HKD",
+    "asof": "2026-09-29",
+    "spot": 1.169,
+    "realized_vol_30d_ann_pct": 1.12,
+    "forecast_vol_7d_ann_pct": 1.44,
+    "ci95_low_pct": -0.47,
+    "ci95_high_pct": 0.47,
+    "recommendation": "execute_now",
+    "rationale": "CNY/HKD 未來 7 天 95% 置信區間 ±0.47%：波動低於路徑成本差，建議按成本最優路徑立即執行。",
+    "model": "GARCH(1,1)",
+    "vol_series": [
+      {
+        "date": "2026-08-18",
+        "vol_ann_pct": 1.62
+      },
+      {
+        "date": "2026-08-20",
+        "vol_ann_pct": 1.65
+      },
+      {
+        "date": "2026-08-24",
+        "vol_ann_pct": 1.32
+      },
+      {
+        "date": "2026-08-26",
+        "vol_ann_pct": 1.29
+      },
+      {
+        "date": "2026-08-28",
+        "vol_ann_pct": 1.16
+      },
+      {
+        "date": "2026-09-01",
+        "vol_ann_pct": 1.09
+      },
+      {
+        "date": "2026-09-03",
+        "vol_ann_pct": 1.02
+      },
+      {
+        "date": "2026-09-07",
+        "vol_ann_pct": 1.04
+      },
+      {
+        "date": "2026-09-09",
+        "vol_ann_pct": 0.99
+      },
+      {
+        "date": "2026-09-11",
+        "vol_ann_pct": 0.87
+      },
+      {
+        "date": "2026-09-15",
+        "vol_ann_pct": 0.87
+      },
+      {
+        "date": "2026-09-17",
+        "vol_ann_pct": 0.88
+      },
+      {
+        "date": "2026-09-21",
+        "vol_ann_pct": 0.95
+      },
+      {
+        "date": "2026-09-23",
+        "vol_ann_pct": 1.07
+      },
+      {
+        "date": "2026-09-25",
+        "vol_ann_pct": 1.11
+      }
+    ]
+  },
+  "CNYKRW": {
+    "pair": "CNY/KRW",
+    "asof": "2026-09-29",
+    "spot": 202.36,
+    "realized_vol_30d_ann_pct": 10.08,
+    "forecast_vol_7d_ann_pct": 9.01,
+    "ci95_low_pct": -2.94,
+    "ci95_high_pct": 2.94,
+    "recommendation": "wait",
+    "rationale": "CNY/KRW 未來 7 天 95% 置信區間 ±2.94%：波動高於路徑成本差，若截止日允許建議觀察數日或分批執行。",
+    "model": "GARCH(1,1)",
+    "vol_series": [
+      {
+        "date": "2026-08-18",
+        "vol_ann_pct": 7.64
+      },
+      {
+        "date": "2026-08-20",
+        "vol_ann_pct": 8.39
+      },
+      {
+        "date": "2026-08-24",
+        "vol_ann_pct": 8.45
+      },
+      {
+        "date": "2026-08-26",
+        "vol_ann_pct": 8.45
+      },
+      {
+        "date": "2026-08-28",
+        "vol_ann_pct": 8.22
+      },
+      {
+        "date": "2026-09-01",
+        "vol_ann_pct": 8.47
+      },
+      {
+        "date": "2026-09-03",
+        "vol_ann_pct": 8.62
+      },
+      {
+        "date": "2026-09-07",
+        "vol_ann_pct": 7.97
+      },
+      {
+        "date": "2026-09-09",
+        "vol_ann_pct": 7.82
+      },
+      {
+        "date": "2026-09-11",
+        "vol_ann_pct": 7.21
+      },
+      {
+        "date": "2026-09-15",
+        "vol_ann_pct": 7.42
+      },
+      {
+        "date": "2026-09-17",
+        "vol_ann_pct": 8.52
+      },
+      {
+        "date": "2026-09-21",
+        "vol_ann_pct": 9.14
+      },
+      {
+        "date": "2026-09-23",
+        "vol_ann_pct": 9.81
+      },
+      {
+        "date": "2026-09-25",
+        "vol_ann_pct": 10.03
+      }
+    ]
+  },
+  "CNYUSD": {
+    "pair": "CNY/USD",
+    "asof": "2026-09-29",
+    "spot": 0.149,
+    "realized_vol_30d_ann_pct": 1.05,
+    "forecast_vol_7d_ann_pct": 1.32,
+    "ci95_low_pct": -0.43,
+    "ci95_high_pct": 0.43,
+    "recommendation": "execute_now",
+    "rationale": "CNY/USD 未來 7 天 95% 置信區間 ±0.43%：波動低於路徑成本差，建議按成本最優路徑立即執行。",
+    "model": "GARCH(1,1)",
+    "vol_series": [
+      {
+        "date": "2026-08-18",
+        "vol_ann_pct": 1.45
+      },
+      {
+        "date": "2026-08-20",
+        "vol_ann_pct": 1.49
+      },
+      {
+        "date": "2026-08-24",
+        "vol_ann_pct": 1.24
+      },
+      {
+        "date": "2026-08-26",
+        "vol_ann_pct": 1.22
+      },
+      {
+        "date": "2026-08-28",
+        "vol_ann_pct": 1.07
+      },
+      {
+        "date": "2026-09-01",
+        "vol_ann_pct": 1.02
+      },
+      {
+        "date": "2026-09-03",
+        "vol_ann_pct": 0.95
+      },
+      {
+        "date": "2026-09-07",
+        "vol_ann_pct": 0.96
+      },
+      {
+        "date": "2026-09-09",
+        "vol_ann_pct": 0.89
+      },
+      {
+        "date": "2026-09-11",
+        "vol_ann_pct": 0.8
+      },
+      {
+        "date": "2026-09-15",
+        "vol_ann_pct": 0.81
+      },
+      {
+        "date": "2026-09-17",
+        "vol_ann_pct": 0.82
+      },
+      {
+        "date": "2026-09-21",
+        "vol_ann_pct": 0.89
+      },
+      {
+        "date": "2026-09-23",
+        "vol_ann_pct": 1.0
+      },
+      {
+        "date": "2026-09-25",
+        "vol_ann_pct": 1.04
+      }
+    ]
+  },
+  "CNYTHB": {
+    "pair": "CNY/THB",
+    "asof": "2026-09-29",
+    "spot": 5.0026,
+    "realized_vol_30d_ann_pct": 5.54,
+    "forecast_vol_7d_ann_pct": 5.93,
+    "ci95_low_pct": -1.94,
+    "ci95_high_pct": 1.94,
+    "recommendation": "wait",
+    "rationale": "CNY/THB 未來 7 天 95% 置信區間 ±1.94%：波動高於路徑成本差，若截止日允許建議觀察數日或分批執行。",
+    "model": "GARCH(1,1)",
+    "vol_series": [
+      {
+        "date": "2026-08-18",
+        "vol_ann_pct": 3.95
+      },
+      {
+        "date": "2026-08-20",
+        "vol_ann_pct": 3.78
+      },
+      {
+        "date": "2026-08-24",
+        "vol_ann_pct": 4.21
+      },
+      {
+        "date": "2026-08-26",
+        "vol_ann_pct": 3.81
+      },
+      {
+        "date": "2026-08-28",
+        "vol_ann_pct": 4.09
+      },
+      {
+        "date": "2026-09-01",
+        "vol_ann_pct": 4.59
+      },
+      {
+        "date": "2026-09-03",
+        "vol_ann_pct": 4.85
+      },
+      {
+        "date": "2026-09-07",
+        "vol_ann_pct": 4.69
+      },
+      {
+        "date": "2026-09-09",
+        "vol_ann_pct": 4.68
+      },
+      {
+        "date": "2026-09-11",
+        "vol_ann_pct": 4.81
+      },
+      {
+        "date": "2026-09-15",
+        "vol_ann_pct": 4.94
+      },
+      {
+        "date": "2026-09-17",
+        "vol_ann_pct": 4.62
+      },
+      {
+        "date": "2026-09-21",
+        "vol_ann_pct": 4.79
+      },
+      {
+        "date": "2026-09-23",
+        "vol_ann_pct": 4.95
+      },
+      {
+        "date": "2026-09-25",
+        "vol_ann_pct": 5.27
+      }
+    ]
+  }
+}
